@@ -1,4 +1,4 @@
-<p align=center> **Alias Kickstarter**
+# Alias Kickstarter
 
 This the repo for the ALiAS Lucknow Kickstarter workshop.
 
@@ -12,7 +12,7 @@ Your task is to clone this repository, add your details to the webpage (index.ht
 - Push the changes to your fork
 - Make a pull request to merge your changes into the main repository
 
-Git Cheetsheet-:
+# Git Cheatsheet-:
 
 ![](images/cheetsheet1.jpg)
 ![](images/cheetsheet2.jpg)
