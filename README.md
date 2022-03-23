@@ -6,11 +6,13 @@ Your task is to clone this repository, add your details to the webpage (index.ht
 
 - Fork this repository to your account
 - Clone the repository
+- Switch to the dev branch
+- Create a new branch named "YourName-dev"
 - Add your details to index.html
 - Add the changes to the staging area
 - Commit the changes
 - Push the changes to your fork
-- Make a pull request to merge your changes into the main repository
+- Make a pull request to merge your changes into the dev branch on the main repository
 
 # Git Cheatsheet-:
 
